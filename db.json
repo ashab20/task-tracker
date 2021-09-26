@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "somthing big",
+      "day": "today",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "somthing wrpng",
+      "day": "today",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "why error",
+      "day": "today",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Doctors Visite",
+      "day": "10th Oct Friday at  7:00pm",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Check Email",
+      "day": "Nov 13th at Tuesday 10am",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Another app",
+      "day": "Friday night",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
